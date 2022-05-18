@@ -5,7 +5,7 @@ class SettingsPage extends StatelessWidget {
   Widget build(BuildContext build) {
     return Scaffold(
         appBar: AppBar(
-          title: Text("SETTING"),
+          title: Text("SETTINGS"),
         ),
         body: ListView(children: [
           SizedBox(
